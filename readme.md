@@ -1,4 +1,4 @@
 # Testing our react native
 
-## to run
+## to run project
 react-native run-ios
